@@ -8,33 +8,33 @@ This project features a data analysis dashboard developed for a Coffee Roaster C
 
 ## 🛠️ Tools & Technologies
 
-1- * **Data Analysis & Visualization:** Microsoft Excel (Advanced Formulas, Pivot Tables, Pivot Charts).
+1- **Data Analysis & Visualization:** Microsoft Excel (Advanced Formulas, Pivot Tables, Pivot Charts).
 
-2- * **Data Cleaning & Transformation:** Power Query.
+2- **Data Cleaning & Transformation:** Power Query.
 
 ## 📊 Core KPIs
 
-1- * **Total Sales:** $698,812.33.
+1- **Total Sales:** $698,812.33.
 
-2- * **Total Quantity Sold:** 214,470.
+2- **Total Quantity Sold:** 214,470.
 
-3- * **Average Unit Price:** $3.38.
+3- **Average Unit Price:** $3.38.
 
-4- * **Number of Orders:** 149,116.
+4- **Number of Orders:** 149,116.
 
 ## 💡 Key Business Insights
 
-1- * **Branch Parity:** Sales are distributed almost equally across all locations, with Hell's Kitchen at 34%, Astoria at 33%, and Lower Manhattan at 33%.
+1- **Branch Parity:** Sales are distributed almost equally across all locations, with Hell's Kitchen at 34%, Astoria at 33%, and Lower Manhattan at 33%.
 
-2- * **Peak Sales Hours:** The majority of the company's sales occur during the Morning (56%), followed by the Afternoon (35%), while Night sales account for only 9%.
+2- **Peak Sales Hours:** The majority of the company's sales occur during the Morning (56%), followed by the Afternoon (35%), while Night sales account for only 9%.
 
-3- * **Top Categories:** "Coffee" is the highest-grossing category with $269,952 in total sales. The "Tea" category follows closely in second place with $196,406.
+3- **Top Categories:** "Coffee" is the highest-grossing category with $269,952 in total sales. The "Tea" category follows closely in second place with $196,406.
 
-4- * **Product Leaders:** "Barista Espresso" generates the highest sales revenue at $91,406. However, "Brewed Chai tea" leads in overall volume with 26,250 units sold.
+4- **Product Leaders:** "Barista Espresso" generates the highest sales revenue at $91,406. However, "Brewed Chai tea" leads in overall volume with 26,250 units sold.
 
-5- * **Price Sensitivity:** Customer purchasing is heavily skewed toward the "Low Price" range, which accounts for a massive 210,169 units sold out of the total quantity.
+5- **Price Sensitivity:** Customer purchasing is heavily skewed toward the "Low Price" range, which accounts for a massive 210,169 units sold out of the total quantity.
 
-6- * **Underperforming Areas:** January and February were the lowest-performing months in terms of overall sales, generating $81,678 and $76,145 respectively. Furthermore, items like "Green beans" and "Organic Chocolate" consistently rank as the bottom two products in monthly sales.
+6- **Underperforming Areas:** January and February were the lowest-performing months in terms of overall sales, generating $81,678 and $76,145 respectively. Furthermore, items like "Green beans" and "Organic Chocolate" consistently rank as the bottom two products in monthly sales.
 
 ## 🚀 Strategic Recommendations
 
